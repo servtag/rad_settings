@@ -15,12 +15,12 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "rad_settings"
-  gem.homepage = "http://github.com/EeCnee/rad_settings"
+  gem.homepage = "http://github.com/servtag/rad_settings"
   gem.license = "MIT"
   gem.summary = %Q{A simple and straightforward settings solution that uses an YAML file}
   gem.description = %Q{A simple and straightforward settings solution that uses an YAML file}
-  gem.email = "bratke@servtag.com"
-  gem.authors = ["Ludwig Bratke"]
+  gem.email = "backend@servtag.com"
+  gem.authors = ["Ludwig Bratke", "Markus Weise"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
