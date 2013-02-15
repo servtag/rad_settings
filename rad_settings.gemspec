@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/rad_settings.rb",
+    "rad_settings.gemspec",
     "spec/rad_settings_spec.rb",
     "spec/spec_helper.rb"
   ]
